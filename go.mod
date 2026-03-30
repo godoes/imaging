@@ -1,5 +1,5 @@
 module github.com/godoes/imaging
 
-go 1.18
+go 1.25.0
 
-require golang.org/x/image v0.18.0
+require golang.org/x/image v0.38.0
